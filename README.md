@@ -2623,7 +2623,7 @@ Ask questions about general knowledge, current events, and breaking news, and ge
 Unified product search across all Korean platforms and brands.
 
 870. **WizeCharts**<br/>
-Create and share beatiful and highly customizable charts.
+Create and share beautiful and highly customizable charts.
 
 871. **Wolfram**<br/>
 Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language.
